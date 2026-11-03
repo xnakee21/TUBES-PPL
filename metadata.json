@@ -1,0 +1,6 @@
+{
+  "name": "Signature",
+  "description": "Aplikasi deteksi keaslian dan brankas tanda tangan berbasis AI/Machine Learning untuk masyarakat umum (kuitansi, cek KTP, surat izin, paket) maupun pekerjaan formal/bisnis (kontrak, perbankan, audit dokumen legal).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
